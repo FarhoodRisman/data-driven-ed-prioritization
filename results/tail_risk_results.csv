@@ -1,0 +1,11 @@
+policy,ctas,mean,p90,p95
+CTAS+FIFO,1,17.2,32.1,39.7
+CTAS+FIFO,2,21.0,43.5,56.2
+CTAS+FIFO,3,92.1,277.5,363.7
+CTAS+FIFO,4,78.5,181.1,367.1
+CTAS+FIFO,5,297.1,939.7,1262.1
+Multi-Attribute,1,17.9,34.2,43.6
+Multi-Attribute,2,25.3,49.8,75.4
+Multi-Attribute,3,75.6,206.4,411.1
+Multi-Attribute,4,78.2,195.9,406.7
+Multi-Attribute,5,42.2,84.2,176.6

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Data-Driven Patient Prioritization and Routing in Emergency Departments: A Predictive Analytics Approach"
+authors:
+  - family-names: Rismanchian
+    given-names: Farhood
+  - family-names: Zaerpour
+    given-names: Farzad
+  - family-names: Hosseinzadeh Kassani
+    given-names: Peyman
+version: "1.0"
+date-released: "2026-07-01"
+repository-code: "https://github.com/FarhoodRisman/data-driven-ed-prioritization"
+license: MIT
