@@ -1,9 +1,0 @@
-task,model,acc
-diagnostics,MLR,0.64
-diagnostics,RF,0.594
-consultation,MLR,0.828
-consultation,RF,0.798
-service_time,MLR,0.429
-service_time,RF,0.357
-disposition,MLR,0.874
-disposition,RF,0.852
